@@ -76,7 +76,7 @@ __END__
 
 =head1 MODE
 
-Check ESX swap rate usage.
+Check ESX System Uptime
 
 =over 8
 
